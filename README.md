@@ -5,3 +5,6 @@
 1. https://coolshell.cn/articles/5426.html
 2. vimtutor<br>
 `高亮`
+```c
+int i;
+```
